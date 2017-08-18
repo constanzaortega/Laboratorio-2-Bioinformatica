@@ -1,1 +1,6 @@
-# Laboratorio-2-Bioinformatica
+# Laboratorio-2-Bioinformaticajij
+
+
+# hola
+
+_lkjg_
