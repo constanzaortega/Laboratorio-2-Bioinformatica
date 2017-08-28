@@ -67,7 +67,7 @@
 - El costo de 0,1 de extender gap, el resultado de este cambio mostro que la longitud total del fragmento disminuyo, posiblemente porque se abrieron gaps de menor longitud. 
 
 ## Parte 3: Diseño de partidores
-¡[partidores]( file:///C:/Users/coni/Desktop/partidores.jpg)
+![partidores obtenidos](https://github.com/constanzaortega/Laboratorio-2-Bioinformatica/blob/master/21175330_10214200611117113_1935606898_n.jpg)
 
 ## Bibliografía
 1.- https://www.ncbi.nlm.nih.gov/gene/6736
@@ -77,4 +77,4 @@
 
 
 
-![linda mi niña](https://github.com/constanzaortega/Laboratorio-2-Bioinformatica/blob/master/21175330_10214200611117113_1935606898_n.jpg)
+
